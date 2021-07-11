@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots
+Main screen with product list (desktop)![imagen](https://user-images.githubusercontent.com/12243331/125180850-a8659000-e1c4-11eb-9366-d4e6d8f7230b.png)
+
+Main screen, indicator in shopping cart (desktop)![imagen](https://user-images.githubusercontent.com/12243331/125180853-b3202500-e1c4-11eb-975e-34d828f4aea8.png)
+
+Shopping cart (desktop)![imagen](https://user-images.githubusercontent.com/12243331/125180861-c16e4100-e1c4-11eb-9e3a-880ab8d8be67.png)
+
+Shopping cart with item (desk)![imagen](https://user-images.githubusercontent.com/12243331/125180866-c92de580-e1c4-11eb-9b71-be0abb975c33.png)
+
+Main screen with product list (mobile)![imagen](https://user-images.githubusercontent.com/12243331/125180878-dc40b580-e1c4-11eb-83bb-91d5c478fc42.png)
+
+Main screen, indicator in shopping cart (mobile)![imagen](https://user-images.githubusercontent.com/12243331/125180885-e662b400-e1c4-11eb-9e83-2214fa52f0e3.png)
