@@ -8,15 +8,16 @@ const CartList = ({ cartItems, handleAddItemToCart, handleRemoveItemFromCart  })
   return(
     <aside>
       <h1>Carrito de compras</h1>
-      {cartItems.length === 0 ? 
-        <h3>No hay productos agregados al carrito todavía</h3> : null}
+      {cartItems.length === 0
+        ? <h3>No hay productos agregados al carrito todavía</h3>
+        : null}
       <div>
         {cartItems.map((i) => (
           <CartItem 
-            cartItems={i} 
+            item={i}
             handleAddItemToCart={handleAddItemToCart} 
             handleRemoveItemFromCart={handleRemoveItemFromCart} 
-          />
+          ></CartItem>
         ))}
       </div>
       <h2>Total: {calculeTotal.toFixed(2)}</h2>
